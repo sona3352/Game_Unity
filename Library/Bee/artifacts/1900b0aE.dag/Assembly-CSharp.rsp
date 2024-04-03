@@ -376,6 +376,7 @@
 "Assets/Scripts/Fallingplat.cs"
 "Assets/Scripts/gamemaster.cs"
 "Assets/Scripts/GroundCheck.cs"
+"Assets/Scripts/HeartUI.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/MovingPlat.cs"
 "Assets/Scripts/PauseMenu.cs"
