@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8CA452B9-3743-0232-65C8-13DE4BDBFA8B}</ProjectGuid>
+    <ProjectGuid>{A305EA22-DEEE-1EAE-A340-A51BFD492FF7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\gamemaster.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\Box.cs" />
+    <Compile Include="Assets\Scripts\HeartUI.cs" />
     <Compile Include="Assets\Scripts\AttackTrigger.cs" />
     <Compile Include="Assets\Scripts\MovingPlat.cs" />
     <Compile Include="Assets\Scripts\GroundCheck.cs" />
