@@ -373,6 +373,7 @@
 "Assets/Scripts/Bullet.cs"
 "Assets/Scripts/Camerafollow.cs"
 "Assets/Scripts/Door.cs"
+"Assets/Scripts/Door1.cs"
 "Assets/Scripts/Fallingplat.cs"
 "Assets/Scripts/gamemaster.cs"
 "Assets/Scripts/GroundCheck.cs"

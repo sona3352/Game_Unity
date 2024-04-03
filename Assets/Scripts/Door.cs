@@ -31,7 +31,7 @@ public class Door : MonoBehaviour
             if (Input.GetKey(KeyCode.E))
             {
                 savescore();
-                SceneManager.LoadScene(0);
+                SceneManager.LoadScene(2);
             }
         }
     }
