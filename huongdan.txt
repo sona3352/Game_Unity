@@ -1,1 +1,3 @@
-123
+Sử dụng A,D để di chuyển
+Sử dụng Space để nhảy
+Sử dụng Q để tấn công
